@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'GenericViewSet3',
     'GenericViewSet4',
     'GenericViewSet5',
+    'GenericViewSet6',
 ]
 
 MIDDLEWARE = [

@@ -8,4 +8,5 @@ urlpatterns = [
     path('api/v1/', include('GenericViewSet3.urls')),
     path('api/v1/', include('GenericViewSet4.urls')),
     path('api/v1/', include('GenericViewSet5.urls')),
+    path('api/v1/', include('GenericViewSet6.urls')),
 ]
